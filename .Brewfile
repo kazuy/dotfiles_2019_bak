@@ -3,6 +3,8 @@ tap "homebrew/cask"
 tap "homebrew/core"
 # Distributed revision control system
 brew "git"
+# Display directories as trees (with optional color/HTML output)
+brew "tree"
 cask "boostnote"
 cask "docker"
 cask "google-chrome"
